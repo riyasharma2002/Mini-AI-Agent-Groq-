@@ -1,0 +1,4 @@
+pymupdf==1.21.1
+groq==0.2.0         # groq python SDK (install; example name, see README if pip name differs)
+python-dotenv==1.0.0
+regex==2024.7.14
